@@ -1,0 +1,6 @@
+  <!--canvas start-->
+            <div class="BuildingCanvas">
+                <div class="BigBlock">
+                </div>
+            </div>
+            <!--canvas start-->
